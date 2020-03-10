@@ -1,0 +1,17 @@
+Ativdades do Sauer:
+
+1) O código retorna e mostra para o usuário o resultado do cálculo de x² + (y+z). A função possui 3 parâmetros do tipo float;
+3) Criação de uma estrutura, na qual possui dentro de si outras variáveis para armazenar dados;
+4) Criar uma array da estrutura;
+5) Caso esteja querendo mais variáveis (registros) na estrutura você pode adicionar no struct:
+	int idade;
+	int id;
+	int turma;
+	char faculdade[30];
+	char turno[10];
+	char linkedin[100];
+	
+	Caso queira 10 fichas de aluno você deve criar assim no main:
+struct ficha_de_aluno aluno[10];
+
+
